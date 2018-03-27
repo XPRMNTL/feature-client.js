@@ -13,14 +13,14 @@
   ],
   "dependencies": {
     "cron": "^1.0.5",
-    "debug": "^2.0.0",
+    "debug": "^3.1.0",
     "q": "^1.0.1",
     "superagent": "^3.5.2",
-    "xpr-util-validation": "^0.0.2"
+    "xpr-util-validation": "^1.0.0"
   },
   "devDependencies": {
-    "chai": "^1.9.1",
-    "mocha": "^1.21.4"
+    "chai": "^4.1.2",
+    "mocha": "^5.0.5"
   },
   "scripts": {
     "test": "NODE_ENV=test `pwd`/node_modules/.bin/mocha --reporter spec test/server/*"
