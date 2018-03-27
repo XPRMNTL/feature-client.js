@@ -1,5 +1,7 @@
 [![XPRMNTL][logo-image]][logo-url]
 # Feature-Client.js
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/XPRMNTL/feature-client.js.svg)](https://greenkeeper.io/)
 [![Build Status][build-image]][build-url]
 [![NPM version][npm-image]][npm-url]
 [![Downloads][downloads-image]][downloads-url]
